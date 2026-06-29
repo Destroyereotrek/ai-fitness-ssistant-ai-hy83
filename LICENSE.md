@@ -1,4 +1,4 @@
-# 
+# Free AI Fitness Trainer Assistant presets. Featuring data-augmentation and AI-scalability — optimized for maximum performance.
 
 
 
